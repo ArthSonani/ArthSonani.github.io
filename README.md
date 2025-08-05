@@ -22,13 +22,6 @@ Showcases who I am as a Computer Science & Engineering student and developer, hi
 
 ---
 
-## 📁 Live Demo & Repo
-
-| 🌐 Live Link | 📂 Source Code |
-|-------------|----------------|
-| [ArthSonani.github.io](https://ArthSonani.github.io) | [GitHub Repository](https://github.com/ArthSonani/ArthSonani.github.io) |
-
----
 
 ## 🎨 Features
 
